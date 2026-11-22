@@ -22,9 +22,6 @@ una **misión legendaria (Story Quest)** del universo de **Genshin Impact**.
 | [`docs/01_protagonistas_y_triangulo.md`](docs/01_protagonistas_y_triangulo.md) | Perfiles canónicos de Keqing, Ganyu y Yelan; relaciones y configuraciones del triángulo amoroso; Liyue (regiones, Qixing, adepti, Rex Lapis, El Chasm); facciones y antagonistas (Fatui, Pantalone). |
 | [`docs/02_sistemas_misiones_y_trama.md`](docs/02_sistemas_misiones_y_trama.md) | Sistema de Visiones y reacciones elementales; estructura de las Story Quests y adaptación a 10 capítulos; conflictos políticos y de inteligencia; ingeniería de la traición y la casi muerte; continuidad canónica; terminología y tono. |
 
-El documento completo unificado (formato `.md`) está disponible además como archivo permanente:
-`genshin_lore_base.md`.
-
 ---
 
 ## Protagonistas
